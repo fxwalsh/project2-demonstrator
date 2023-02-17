@@ -4,6 +4,6 @@
 This is a project nsjkfsdk
 
 ## Description
-Some text here
+Some more text
 
 ## Tools & Technologies
